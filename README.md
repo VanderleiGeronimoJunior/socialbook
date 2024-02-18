@@ -99,6 +99,7 @@ HTML | CSS | JavaScript
 
 ##   Autor
 🧑‍💻
+- <a href="https://www.youtube.com/watch?v=CpgNVyUxUV0&t=1259s">Canal GreatStack</a>
 
 ### Vanderlei Junior
 - <a href="https://github.com/VanderleiGeronimoJunior">GitHub</a>
