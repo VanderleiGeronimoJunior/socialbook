@@ -82,16 +82,16 @@ HTML | CSS | JavaScript
 
 ###   Recursos Úteis
 🔧
-- <a href="https://cdnjs.cloudflare.com/ajax/libs/axios/1.4.0/axios.js">Axios Js CDN</a>
-- <a href="https://axios-http.com/docs/intro">Axios Js Docs</a>
-- <a href="https://www.toptal.com/designers/htmlarrows/">htmlarrows</a>
-- <a href="https://lordicon.com/">Icons by Lordicon.com</a>
+- <a href="https://cdnjs.cloudflare.com/ajax/libs/axios/1.4.0/axios.js" target="_blank">Axios Js CDN</a>
+- <a href="https://axios-http.com/docs/intro" target="_blank">Axios Js Docs</a>
+- <a href="https://www.toptal.com/designers/htmlarrows/" target="_blank">htmlarrows</a>
+- <a href="https://lordicon.com/" target="_blank">Icons by Lordicon.com</a>
 
-- <a href="https://www.themoviedb.org/">The Movie DB</a>
+- <a href="https://www.themoviedb.org/" target="_blank">The Movie DB</a>
 
 
-- <a href="https://boxicons.com/?query=">Box Icons</a>
-- <a href="https://getbootstrap.com/docs/5.3/components/carousel/">Carousel Bootstrap</a>
+- <a href="https://boxicons.com/?query=" target="_blank">Box Icons</a>
+- <a href="https://getbootstrap.com/docs/5.3/components/carousel/" target="_blank">Carousel Bootstrap</a>
 - Use a URL abaixo para trazer imagens no card, slider... passe o tamanho da imagem e depois do sinal de interrogação o tema da imagem que tu quer como car, movie, peaple, etc...
 - https://source.unsplash.com/random/2560x1080/?model
 
@@ -99,9 +99,9 @@ HTML | CSS | JavaScript
 
 ##   Autor
 🧑‍💻
-- <a href="https://www.youtube.com/watch?v=CpgNVyUxUV0&t=1259s">Canal GreatStack</a>
+- <a href="https://www.youtube.com/watch?v=CpgNVyUxUV0&t=1259s" target="_blank">Canal GreatStack</a>
 
 ### Vanderlei Junior
-- <a href="https://github.com/VanderleiGeronimoJunior">GitHub</a>
-- <a href="https://www.linkedin.com/in/vanderlei-junior-b9956686/">Linkedin</a>
+- <a href="https://github.com/VanderleiGeronimoJunior" target="_blank">GitHub</a>
+- <a href="https://www.linkedin.com/in/vanderlei-junior-b9956686/" target="_blank">Linkedin</a>
 
